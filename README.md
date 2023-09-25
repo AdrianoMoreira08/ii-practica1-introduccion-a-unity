@@ -1,4 +1,6 @@
 # ii-practica1-introduccion-a-unity
+**Autor**: Adriano dos Santos Moreira  
+
 ![test gif](test.gif)
 
 Agregué el jugador usando un prefab de Third Person (de Starter Assets)
